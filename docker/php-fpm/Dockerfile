@@ -1,4 +1,4 @@
-FROM php:7.4.33-fpm
+FROM php:8.5.10-fpm
 
 # 设置时区
 ENV TZ=Asia/Shanghai
